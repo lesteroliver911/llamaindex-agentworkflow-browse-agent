@@ -2,6 +2,8 @@
 
 Automate web interactions using LLMs and llamaindex agentworkflow. 
 
+![LlamaIndex Agent Workflow Demo](https://github.com/lesteroliver911/llamaindex-agentworkflow-browse-agent/blob/main/assets/llamaindex-agentworkflow.gif)
+
 ## Why This Exists
 
 Traditional web automation is brittle and high-maintenance. This system uses GPT-4 and LlamaIndex to create resilient, natural-language-driven automation that:
