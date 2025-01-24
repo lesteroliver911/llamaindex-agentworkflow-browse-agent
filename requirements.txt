@@ -1,0 +1,7 @@
+llama-index
+openai
+tavily-python
+selenium
+helium
+pillow
+python-dotenv 
