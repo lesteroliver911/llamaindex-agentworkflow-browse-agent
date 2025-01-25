@@ -63,11 +63,9 @@ workflow.run(instruction)
 ## Requirements
 
 - Python 3.8+
-- OpenAI API key (GPT-4 access required)
+- OpenAI API key (GPT-4o access required)
 - Chrome/Chromium browser
 - 8GB+ RAM recommended
-
-## Integration Examples
 
 ### Custom Agent Tools
 ```python
